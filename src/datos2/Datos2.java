@@ -1,24 +1,21 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package datos2;
 
 /**
  *
- * @author JUAN
+ * *Autor:Juan Carlos Chaparro Dominguez
  */
 public class Datos2 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Declaracion de variables
         int Edad=21;
         String sexo="Masculino";
         String Nombre ="Juan Carlos Chaparro Dominguez";
        boolean respuesta=false;
+       
+       //imprimimos en pantalla lo que vale cada variable declarada anteriormente con un mensaje
        
         System.out.println(Nombre+" Tiene la edad de: "+Edad);
         System.out.println("Es del sexo: "+sexo);
