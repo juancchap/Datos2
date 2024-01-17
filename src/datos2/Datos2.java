@@ -19,7 +19,7 @@ public class Datos2 {
        
         System.out.println(Nombre+" Tiene la edad de: "+Edad);
         System.out.println("Es del sexo: "+sexo);
-        System.out.println("Todos los datos son: "+respuesta);
+        System.out.println("Todos los datos son anteriores son : "+respuesta);
     }
     
 }
