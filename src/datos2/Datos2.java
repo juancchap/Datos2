@@ -14,7 +14,7 @@ public class Datos2 {
         boolean respuesta = false;
 
         //imprimimos en pantalla lo que vale cada variable declarada anteriormente con un mensaje
-        System.out.println(Nombre + " Tiene la edad de: " + Edad);
+        System.out.println(Nombre + " Tiene la edad de: " + Edad+" Años");
         System.out.println("Es del sexo: " + sexo);
         System.out.println("Todos los datos son anteriores son : " + respuesta);
     }
